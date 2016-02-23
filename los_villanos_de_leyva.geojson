@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Carpa de eventos Bima",
+        "event": "Ringo Starr en Bogotá",
+        "date": "2015-03-05",
+        "capacity": 5500,
+        "ocupation": 50,
+        "price": "NA",
+        "founder": "NA",
+        "lineup": "RIngo Star, Los Villanos de Leyva",
+        "headliner": "RIngo Star",
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.039262,
+          4.807669
+        ]
+      }
+    }
+  ]
+}
