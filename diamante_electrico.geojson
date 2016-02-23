@@ -86,7 +86,7 @@
         "ocupation": "NA",
         "price": 92000,
         "founder": "NA",
-        "lineup": "Molotov, Consulado popular, Diamante elÃÂÃÂ©ctrico, Telebit, A.C.M.E, Larvante, Vertical valley, Punto orange, Patafunk",
+        "lineup": "Molotov, Consulado popular, Diamante elÃÂÃÂÃÂÃÂ©ctrico, Telebit, A.C.M.E, Larvante, Vertical valley, Punto orange, Patafunk",
         "headliner": "Molotov",
         "city": "Ibague Colombia",
         "marker-size": "",
@@ -294,8 +294,8 @@
     {
       "type": "Feature",
       "properties": {
-        "event": "Festival Centro de BogotÃ¡ ",
-        "venue": "FundaciÃ³n Gilberto Alzate AvendaÃ±o",
+        "event": "Festival Centro de BogotÃÂ¡ ",
+        "venue": "FundaciÃÂ³n Gilberto Alzate AvendaÃÂ±o",
         "date": "2013-01-15",
         "price": 0,
         "founder": "NA",
@@ -324,7 +324,7 @@
         "ocupation": "NA",
         "price": 580,
         "founder": "NA",
-        "lineup": "Agora, Cadena Perpetua, Callate Mark, Calle 13, Carlos Méndez, Carmen Costa, Ceci Bastida, Chancha Vía Circuito, Dancing Mood, Daniela Spalla, De La Tierra, Diamante Eléctrico, Dr. Krápula, El Freaky, El Gran Silencio, Emir Kusturika & the No Smoking Orchestra, Gaia, Guadalupe Plata, Helado Negro, I Can Chase Dragons, Kraken, Little Jeus, Lori Meyers, Los Caligaris, Los Fascinantes, Los Marty, Los Tigres del Norte, Los Tiros, Luzbel, Maldita Vecindad y los Hijos del Quinto Patio, Motorama, Outernational, Primal Scream, Quantic, Rey Pila, Reyno, Schlachthofbronx, Siete Catorce, Sonido Martínez, Technicolor Fabrics, Twenty One Pilots, Yokozuna",
+        "lineup": "Agora, Cadena Perpetua, Callate Mark, Calle 13, Carlos MÃ©ndez, Carmen Costa, Ceci Bastida, Chancha VÃ­a Circuito, Dancing Mood, Daniela Spalla, De La Tierra, Diamante ElÃ©ctrico, Dr. KrÃ¡pula, El Freaky, El Gran Silencio, Emir Kusturika & the No Smoking Orchestra, Gaia, Guadalupe Plata, Helado Negro, I Can Chase Dragons, Kraken, Little Jeus, Lori Meyers, Los Caligaris, Los Fascinantes, Los Marty, Los Tigres del Norte, Los Tiros, Luzbel, Maldita Vecindad y los Hijos del Quinto Patio, Motorama, Outernational, Primal Scream, Quantic, Rey Pila, Reyno, Schlachthofbronx, Siete Catorce, Sonido MartÃ­nez, Technicolor Fabrics, Twenty One Pilots, Yokozuna",
         "city": "Bogota, Colombia",
         "added by": "johnbothia",
         "headliner": "NA"
@@ -334,6 +334,29 @@
         "coordinates": [
           -99.095548,
           19.40639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Estadio Nemesio Camacho El Campin",
+        "event": "Fo Fighters en vivo",
+        "date": "2015-31-01",
+        "capacity": 40000,
+        "ocupation": 100,
+        "price": "NA",
+        "founder": "NA",
+        "lineup": "Foo Fighters, Diamante Electrico",
+        "headliner": "Foo Fighters",
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.077656,
+          4.650881
         ]
       }
     }
