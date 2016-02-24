@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Royal Center",
+        "event": "Moon Landing World Tour",
+        "date": "2015-03-20",
+        "capacity": 4800,
+        "ocupation": "NA",
+        "price": 130000,
+        "founder": "NA",
+        "lineup": "James Blunt, The Mills",
+        "headliner": "James Blunt",
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.063242,
+          4.6540946
+        ]
+      }
+    }
+  ]
+}
