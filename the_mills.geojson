@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Royal Center",
+        "event": "Gira Rock´n Roll Revolution",
+        "date": "2014-11-13",
+        "capacity": 4800,
+        "ocupation": 100,
+        "price": "NA",
+        "founder": "NA",
+        "lineup": "The Mills, Fito Paez",
+        "headliner": "Fito Paez",
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.063242,
+          4.6540946
+        ]
+      }
+    }
+  ]
+}
