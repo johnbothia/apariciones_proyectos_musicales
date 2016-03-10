@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Parque Simon Bolivar",
+        "event": "Pearl Jam en Bogota",
+        "date": "2015-11-25",
+        "capacity": 80000,
+        "ocupation": 10,
+        "price": "NA",
+        "founder": "NA",
+        "lineup": "Pearl Jam, The Hall Effect",
+        "headliner": "Pearl Jam",
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.090787,
+          4.660971
+        ]
+      }
+    }
+  ]
+}
