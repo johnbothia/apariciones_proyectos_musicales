@@ -14,7 +14,7 @@
         "headliner": "",
         "link": "https://www.facebook.com/events/601642953310450/ ",
         "added_by": "Beatriz Tenorio  ",
-        "address": "Km 1 via al Totumo IbaguÃ©",
+        "address": "Km 1 via al Totumo IbaguÃÂ©",
         "start": "5:00:00 PM",
         "end": "7:00:00 PM",
         "other_events": "",
@@ -70,7 +70,7 @@
         "headliner": "",
         "link": "https://www.facebook.com/events/521732381333381/",
         "added_by": "Beatriz Tenorio ",
-        "address": "Carrera 87 NÂ° 30 - 65 MedellÃ­n - Colombia",
+        "address": "Carrera 87 NÃÂ° 30 - 65 MedellÃÂ­n - Colombia",
         "start": "8:00:00 PM",
         "end": "10:00:00 PM",
         "other_events": "",
@@ -117,7 +117,7 @@
       "type": "Feature",
       "properties": {
         "venue": "Teatro Nacional La Castellana",
-        "event": "Experiencia SÃ³nica",
+        "event": "Experiencia SÃÂ³nica",
         "date": "2015-05-12",
         "capacity": 711,
         "occupation": 100,
@@ -278,6 +278,29 @@
         "coordinates": [
           -73.64019870758057,
           4.1398910153635535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "venue": "Royal Center",
+        "event": "Ed Sheeran en Bogota",
+        "date": "2015-04-19",
+        "capacity": 4800,
+        "occupation": 100,
+        "price": "NA",
+        "lineup": "Ed Sheeran, Manuel Medrano",
+        "headliner": "Ed Sheeran",
+        "added_by": "johnbothia",
+        "start": "NA",
+        "end": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.063242,
+          4.6540946
         ]
       }
     }
