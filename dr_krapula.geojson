@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Teatro Metropol",
+        "event": "¡¡¡Chinga tu madre party!!!",
+        "date": "2011-11-12",
+        "capacity": 2500,
+        "ocupation": "NA",
+        "price": "NA",
+        "founder": "NA",
+        "lineup": "Dj PiKa,  Dj BEESoN, Dr. Krapula, Molotov",
+        "headliner": "Molotov",
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.069458,
+          4.610949
+        ]
+      }
+    }
+  ]
+}
