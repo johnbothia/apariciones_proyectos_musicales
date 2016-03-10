@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Parque Deportivo 222",
+        "event": "Prismatic World Tour",
+        "date": "2015-11-09",
+        "capacity": 20000,
+        "ocupation": "NA",
+        "price": "NA",
+        "founder": "NA",
+        "lineup": "Katy Perry,  Durazno,Tinashy ",
+        "headliner": "Katy Perry",
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.037631,
+          4.80224
+        ]
+      }
+    }
+  ]
+}
