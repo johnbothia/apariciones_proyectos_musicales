@@ -8,7 +8,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "venue": "Royal Center",
-        "event": "Gira Rock´n Roll Revolution",
+        "event": "Gira Rock and Roll Revolution",
         "date": "2014-11-13",
         "capacity": 4800,
         "ocupation": 100,
@@ -24,6 +24,29 @@
         "coordinates": [
           -74.063242,
           4.6540946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2015-04-21",
+        "event": "Imagine dragons tour 2015",
+        "capacity": 60000,
+        "ocupation": 10,
+        "price": "NA",
+        "founder": "NA",
+        "lineup": "Imagine Dragons, The Mills",
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia",
+        "headliner": "Imagine Dragons",
+        "venue": "Parque Simon Bolivar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.09082,
+          4.66188
         ]
       }
     }
