@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Royal Center",
+        "event": "Sol Invictus Tour",
+        "date": "2015-09-18",
+        "capacity": 4800,
+        "ocupation": "NA",
+        "price": "NA",
+        "founder": "NA",
+        "lineup": "Faith no More, Desnudos en Coma",
+        "headliner": "Faith no More",
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.063242,
+          4.6540946
+        ]
+      }
+    }
+  ]
+}
