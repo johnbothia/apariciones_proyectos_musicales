@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Teatro Metropol",
+        "event": "Pornograffi tti live",
+        "date": "2015-06-23",
+        "capacity": 2500,
+        "ocupation": 90,
+        "price": "NA",
+        "founder": "NA",
+        "lineup": "Extreme, Supremacy ",
+        "headliner": "Extreme",
+        "city": "Bogota, Colombia",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.063242,
+          4.6540946
+        ]
+      }
+    }
+  ]
+}
