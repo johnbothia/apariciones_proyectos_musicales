@@ -29,12 +29,26 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "venue": "Centro de Desarrollo Cultural de Moravia ",
+        "capacity": 370,
+        "date": "2011-09-02",
+        "event": "ALIBOMBO EN CONCIERTO",
+        "ocupation": 10,
+        "price": "NA",
+        "founder": "NA",
+        "lineup": "NA",
+        "headliner": "NA",
+        "city": "Medellin, Colombia",
+        "added by": "johnbothia"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.56484192609787,
-          6.25381050117254
+          -75.564651,
+          6.276851
         ]
       }
     }
