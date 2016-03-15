@@ -39,8 +39,8 @@
         "ocupation": 10,
         "price": "NA",
         "founder": "NA",
-        "lineup": "NA",
-        "headliner": "NA",
+        "lineup": "Alibombo, Casta Crew",
+        "headliner": "Alibombo",
         "city": "Medellin, Colombia",
         "added by": "johnbothia"
       },
@@ -49,6 +49,31 @@
         "coordinates": [
           -75.564651,
           6.276851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lineup": "Mitu, Crew Peligrosos, Mustang Colorado, Alibombo, Under House Cats",
+        "venue": "Concha Acustica Jose A. Morales Lopez",
+        "marker-size": " medium",
+        "marker-color": "#7e7e7e",
+        "event": "Posada Navideña",
+        "date": "2015-12-19",
+        "headliner": "Mitu",
+        "city": "Bucaramanga, Colombia",
+        "added by": "johnbothia",
+        "capacity": 1000,
+        "ocupation": "NA",
+        "price": "NA",
+        "founder": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.114946,
+          7.121679
         ]
       }
     }
