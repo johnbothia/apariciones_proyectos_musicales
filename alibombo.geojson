@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "venue": "Teatro Lido",
+        "event": "ALIBOMBO en concierto en el TEATRO LIDO",
+        "date": "2011-07-29",
+        "capacity": 1100,
+        "ocupation": 10,
+        "price": "NA",
+        "founder": "NA",
+        "lineup": "NA",
+        "headliner": "NA",
+        "city": "Medellin, Colombia",
+        "added by": "johnbothia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.565089,
+          6.253527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56484192609787,
+          6.25381050117254
+        ]
+      }
+    }
+  ]
+}
